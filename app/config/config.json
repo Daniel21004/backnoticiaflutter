@@ -1,0 +1,9 @@
+{
+    "development" :{
+        "username": "root",
+        "password": "daniel21",
+        "database": "noticias",
+        "dialect": "mysql",
+        "operatorAliases": false
+    }
+}
